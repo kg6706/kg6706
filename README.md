@@ -15,8 +15,7 @@
 - Node.js, TypeScript
 
 ### 🚀 Frameworks
-- Express.js, NestJS, Next.js
-- Laravel, Bootstrap
+- Express.js, NestJS, Next.js, React.js
 
 ### 🗃️ Databases
 - MongoDB, MySQL, PostgreSQL
