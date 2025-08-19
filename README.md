@@ -39,8 +39,6 @@
 
 > Want to collaborate or hire me? Feel free to **DM** or send an invite!
 
----
-
 ## 🤝 Let's Connect
 
 - 📬 Email: kevalgangani.dev@gmail.com
