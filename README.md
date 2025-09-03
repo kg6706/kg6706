@@ -2,7 +2,7 @@
 
 💻 Passionate full-stack developer experienced in building robust, scalable web applications using modern technologies and frameworks. I enjoy solving real-world problems with clean and efficient code.
 
-📩 **Let's connect:** kevalgangani.dev@gmail.com
+📩 **Let's connect:** ganganikeval@gmail.com
 
 ---
 
