@@ -40,6 +40,6 @@
 
 ## 🤝 Let's Connect
 
-- 📬 Email: kevalgangani.dev@gmail.com
+- 📬 Email: ganganikeval@gmail.com
 
 Thanks for visiting my profile! 👨‍💻
